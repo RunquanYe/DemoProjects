@@ -57,9 +57,7 @@ This is a VueJS web application project
 + ### How to run:
     - ###### Nevigate your terminal or powershell inside the VueJS project folder
     - ###### Install VueJS program --> npm install -g @vue/cli
-    - ###### Download the Vue node_modules --> npm install (may pop up some npm error, it doesnt matter just some packages version warn)
-    - ###### Update the Vue node_modules --> npm update (may pop up some npm error, it doesnt matter just some packages version warn)
-    - ###### Build the VueJS project --> npm run build
+    - ###### Download the Vue node_modules --> npm install 
     - ###### Start the project --> npm run serve
     - ###### See the project on your brower --> with the web address: http://localhost:8080/
     - ###### Login into the application --> you can use the Email:"test@gmail.com" Password:"123456" or just fill up the vaild form email address string and 6 digit password then Click the "SignUp" button. 
