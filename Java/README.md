@@ -12,11 +12,12 @@ I made the game with Java added some additional features that would make the gam
 
 + ### Spotlight:
     - ###### Background music
-    - ###### Background Color change
+    - ###### Background color change
+    - ###### Random cell background color change
     - ###### Undo and recover previouse steps
     - ###### Stack game score and movement record
     - ###### Built-in timer to track on time for the time-limit
-    - ###### Customize Game Board Size, winning requirement
+    - ###### Customize game board size, winning requirement
     - ###### hook up the JLabels with hyperlinks on "About Programmer", you can see my linkedin
-    - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project" 
-    - ###### Check the network connection and receive the newest programmer introduction online in a thread
+    - ###### Random icons displaying on "Game Instruction", "About Programmer", and "About Project" 
+    - ###### Check the network connection and receive the newest programmer introduction online JSON in a thread
