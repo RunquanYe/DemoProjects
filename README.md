@@ -2,8 +2,8 @@
 This repository is for some of my representative projects 
 
 ### 1.Java
-1. [Product Quotation](#ProductQuotation)
-2. [Super 2048](#Super2048)
++ [Product Quotation](#ProductQuotation)
++ [Super 2048](#Super2048)
 
 ### 2.JavaScript
 [Country Captial Weather](#CountryCaptialWeather)
