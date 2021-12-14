@@ -7,7 +7,6 @@
 ## Product Quotation
 I programmed a product quotation application that simulates common functionalities, which the companies normally need for the product quotation software. 
 
-<img align="center" width="500" height="200" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/101.PNG"/>
 <img align="center" width="700" height="500" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/102.PNG"/>
 <img align="center" width="700" height="500" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/103.PNG"/>
 
