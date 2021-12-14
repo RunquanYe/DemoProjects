@@ -1,7 +1,7 @@
 # Java
 ## My Java Projects
-1. [ProductQuotation](#ProductQuotation)
-2. [Super 2048](#Super2048)
++ [ProductQuotation](#ProductQuotation)
++ [Super 2048](#Super2048)
 ---
 
 ## Product Quotation
