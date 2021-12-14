@@ -3,16 +3,16 @@ This repository is for some of my representative projects
 
 ### 1.Java
 1. [Product Quotation](#ProductQuotation)
-2. [Super2048](#Super2048)
+2. [Super 2048](#Super2048)
 
 ### 2.JavaScript
 [Country Captial Weather](#CountryCaptialWeather)
 
 ### 3.VueJS
-[Budget-List](#Budget-List)
+[Budget List](#Budget-List)
 
 ### 4.PostgreSQL/SQL
-[PostgreSQLSQL](#PostgreSQLSQL)
+[PostgreSQL](#PostgreSQL)
 
 ---
 
@@ -91,7 +91,7 @@ This is a VueJS web application project
 ---
 
 
-## PostgreSQLSQL
+## PostgreSQL
 Here are some PostgreSQL, SQL, and Python Script
 
 + ### Spotlight:
