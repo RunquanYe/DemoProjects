@@ -1,5 +1,27 @@
+# Java
+## My Java Projects
+1. [ProductQuotation](#ProductQuotation)
+2. [Super 2048](#Super2048)
+---
+
+## Product Quotation
+I programmed a product quotation application that simulates common functionalities, which the companies normally need for the product quotation software. 
+
+<img align="center" width="500" height="200" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation.PNG"/>
+
++ ### Spotlight:
+    - ###### Nice and handy GUI Panel design.
+    - ###### Provide a nice table view for displaying the product information. 
+    - ###### Users could switch software language between Chinese and English.
+    - ###### Provide shortcut keys for all the application functions for user convenience.
+    - ###### Provide a handly sorted table and inquire table method for users to looking for products' info.
+    - ###### Save and Load methods for the application data, and it supports txt, doc, docx, xls, and xlsx format.
+    - ###### Check the network connection and receive the newest programmer introduction from GitHub in a thread. 
+    - ###### Hold up the JLabels with hyperlinks on the "About Programmer" Panel you can view my Github and LinkedIn.
+---
+
 # Super2048
-I made the game with Java added some additional features that would make the game better and more challenging.
+I made the game in Java added some additional features that would make the game better and challenging.
 
 <img align="center" width="370" height="500" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/1%20(1).PNG"/>
 <img align="center" width="370" height="500" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/1%20(2).PNG"/>

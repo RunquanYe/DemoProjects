@@ -2,8 +2,8 @@
 This repository is for some of my representative projects 
 
 ### 1.Java
-[Product Quotation](#ProductQuotation)
-[Super2048](#Super2048)
+1. [Product Quotation](#ProductQuotation)
+2. [Super2048](#Super2048)
 
 ### 2.JavaScript
 [Country Captial Weather](#CountryCaptialWeather)
@@ -16,10 +16,10 @@ This repository is for some of my representative projects
 
 ---
 
-## Product Quotation
+## ProductQuotation
 I programmed a product quotation application that simulates common functionalities, which the companies normally need for the product quotation software. 
 
-<img align="center" width="500" height="200" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation.PNG"/>
+<img align="center" width="500" height="200" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/101.PNG"/>
 
 + ### Spotlight:
     - ###### Nice and handy GUI Panel design.
@@ -32,9 +32,9 @@ I programmed a product quotation application that simulates common functionaliti
     - ###### Hold up the JLabels with hyperlinks on the "About Programmer" Panel you can view my Github and LinkedIn.
 ---
 ## Super2048
-I made the game in Java added some additional features that would make the game better .
+I made the game in Java added some additional features that would make the game better and challenging.
 
-<img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/204801.PNG"/>
+<img align="center" width="370" height="500" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/201.PNG"/>
 
 + ### How to run:
     - ###### As long as your computer installed Java jre, the project already is an executable jar file executable on Mac, Windows, and Linux. But the Background Music effect only work on Window computer.
