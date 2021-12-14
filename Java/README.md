@@ -26,7 +26,6 @@ I made the game in Java added some additional features that would make the game 
 
 <img align="center" width="370" height="500" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/202.PNG"/>
 <img align="center" width="700" height="500" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/203.PNG"/>
-<img align="center" width="700" height="500" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/204.PNG"/>
 <img align="center" width="700" height="500" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/205.PNG"/>
 
 + ### How to run:
