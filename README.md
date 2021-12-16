@@ -17,22 +17,23 @@ This repository is for some of my representative projects
 ---
 
 ## ProductQuotation
-I programmed a product quotation application that simulates common functionalities, which the companies normally need for the product quotation software. 
+I programmed a product quotation application that simulates common functionalities, which companies normally need for the product quotation software. 
 
 <img align="center" width="500" height="200" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/101.PNG"/>
 
 + ### Spotlight:
-    - ###### Nice and handy GUI Panel design.
+    - ###### Attractive and easy to use GUI Panel design.
     - ###### Provide a nice table view for displaying the product information. 
     - ###### Users could switch software language between Chinese and English.
     - ###### Provide shortcut keys for all the application functions for user convenience.
-    - ###### Provide a handly sorted table and inquire table method for users to looking for products' info.
+    - ###### Provide a handy sorted table and search table method for users to looking for products' info.
     - ###### Save and Load methods for the application data, and it supports txt, doc, docx, xls, and xlsx format.
+
     - ###### Check the network connection and receive the newest programmer introduction from GitHub in a thread. 
     - ###### Hold up the JLabels with hyperlinks on the "About Programmer" Panel you can view my Github and LinkedIn.
 ---
 ## Super2048
-I made the game in Java added some additional features that would make the game better and challenging.
+I made the game with some addition features that would improve the game and make it more challenging.
 
 <img align="center" width="370" height="500" src="https://github.com/RunquanYe/DemoProjects/blob/main/Java/img/201.PNG"/>
 
@@ -44,7 +45,7 @@ I made the game in Java added some additional features that would make the game 
     - ###### Background Color change
     - ###### Undo and recover previouse steps
     - ###### Stack game score and movement record
-    - ###### Built-in timer to track on time for the time-limit
+    - ###### Built-in timer to track time for the time-limit
     - ###### Customize Game Board Size, winning requirement
     - ###### hook up the JLabels with hyperlinks on "About Programmer", you can see my linkedin
     - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project" 
@@ -58,11 +59,11 @@ This is a normal HTML CSS JavaScript project
 <img align="center" width="600" height="300" src="https://github.com/RunquanYe/DemoProjects/blob/main/JavaScript/img/1.jpg"/>
 
 + ### Spotlight:
-    - ###### Input TextField add key listener
-    - ###### Button hook up with event listener
-    - ###### Project use JavaScript promise fetach
+    - ###### Input TextField adds key listener
+    - ###### Buttons hook up with event listener
+    - ###### Project uses JavaScript promise fetach
     - ###### Good Web page layout management and css effects 
-    - ###### Use two different APIs to get countries' infor, flag, and their capticals' weather report
+    - ###### Use two different APIs to get countries' information, flag, and their capticals' weather report
 ---
 
 
@@ -81,13 +82,13 @@ This is a VueJS web application project
     
 + ### Budget-List:
     - ###### Input TextField hint effect
-    - ###### Input TextField hook up with list selector
-    - ###### Input TextField hook up with calendar selector
+    - ###### Input TextField hooks up with list selector
+    - ###### Input TextField hooks up with calendar selector
     - ###### Dialog event logic and its relative actions
     - ###### Good Web page layout management and css effects 
-    - ###### Button hook up with event listener and hint effect
-    - ###### Project use Firebase for login-in and account create authentication
-    - ###### Project hook up with Firebase as a real-time respond cloud database
+    - ###### Buttons hook up with event listener and hint effect
+    - ###### Project uses Firebase for login-in and account create authentication
+    - ###### Project hooks up with Firebase as a real-time respond cloud database
 ---
 
 
