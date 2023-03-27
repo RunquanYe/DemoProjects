@@ -118,7 +118,7 @@ This is a VueJS web application project
 ---
 
 
-## [PostgreSQL](PostgreSQL-SQL)
+## [PostgreSQL](SQL)
 Here are some PostgreSQL, SQL, and Python Script
 
 + ### Spotlight:
@@ -141,6 +141,5 @@ I programmed a file helper terminal bash script to generate a test file(s) and r
 [C]: https://github.com/RunquanYe/C
 [Python]: https://github.com/RunquanYe/Python
 [Bash]: https://github.com/RunquanYe/Bash
-[SQL]: https://github.com/RunquanYe/DemoProjects/tree/main/PostgreSQL
+[SQL]: https://github.com/RunquanYe/PostgreSQL-SQL
 [HTML]: https://github.com/RunquanYe/HTML
-[PostgreSQL-SQL]: https://github.com/RunquanYe/PostgreSQL-SQL
