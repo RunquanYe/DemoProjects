@@ -24,7 +24,7 @@ This repository is for some of my representative projects
 
 ---
 
-## [Product Quotation](Java)
+## [Product Quotation][Java]
 I programmed a product quotation application that simulates common functionalities, which companies normally need for the product quotation software. 
 
 <img align="center" width="500" height="200" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation_01.PNG"/>
@@ -40,7 +40,7 @@ I programmed a product quotation application that simulates common functionaliti
     - ###### Check the network connection and receive the newest programmer introduction from GitHub in a thread. 
     - ###### Hold up the JLabels with hyperlinks on the "About Programmer" Panel you can view my Github and LinkedIn.
 ---
-## [Super 2048](Java)
+## [Super 2048][Java]
 I made the game with some addition features that would improve the game and make it more challenging.
 
 <img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/Super2048_01.PNG"/>
@@ -61,7 +61,7 @@ I made the game with some addition features that would improve the game and make
 ---
 
 
-## [Grocery Store Management System](C)
+## [Grocery Store Management System][C]
 Project 2 is a product management system for the grocery store. It can store, search, and update the product data information and check out products.
 
 <html>
@@ -78,7 +78,7 @@ Project 2 is a product management system for the grocery store. It can store, se
 ---
 
 
-## [Country Captial Weather](HTML)
+## [Country Captial Weather][HTML]
 This is a normal HTML CSS JavaScript project
 
 <img align="center" width="600" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Web/Country_Captial_Weather.jpg"/>
@@ -92,7 +92,7 @@ This is a normal HTML CSS JavaScript project
 ---
 
 
-## [Budget List](HTML)
+## [Budget List][HTML]
 This is a VueJS web application project
 
 <img align="center" width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_3.jpg"/>
@@ -118,7 +118,7 @@ This is a VueJS web application project
 ---
 
 
-## [PostgreSQL](SQL)
+## [PostgreSQL][SQL]
 Here are some PostgreSQL, SQL, and Python Script
 
 + ### Spotlight:
@@ -129,7 +129,7 @@ Here are some PostgreSQL, SQL, and Python Script
 ---
 
 
-## [File Helper](Bash)
+## [File Helper][Bash]
 I programmed a file helper terminal bash script to generate a test file(s) and rename a series of the file(s) for my development process, therefore I could quickly generate dummy test data files, or rename files to let my projects be more organized. I also add my profile hyperlinks in the bash script, so that you can click the links from the terminal while executing the script to visit my pages if you are interested in me.
 
 <img align="center" width="500" height="200" src="https://github.com/RunquanYe/Bash/blob/main/img/fileHelper_2.png"/>
