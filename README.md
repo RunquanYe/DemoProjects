@@ -12,7 +12,7 @@ This repository is for some of my representative projects
 
 ### 4. Web Projects
 + #### 1. HTML Project
-    - [Country Captial Weather](#Country-Captial-Weather)
+    - [Country Captial Weather API](#Country-Captial-Weather-API)
 + #### 2. VueJS Project
     - [Budget List](#Budget-List)
 
@@ -78,17 +78,11 @@ Project 2 is a product management system for the grocery store. It can store, se
 ---
 
 
-## [Country Captial Weather][HTML]
-This is a normal HTML CSS JavaScript project
+## [Country Captial Weather API][HTML]
+This is a web project using HTML, CSS, and JavaScript. The project uses multiple APIs to get all the countries from the selected continent and display the countries' names, flags, capital cities, and the recent weather report of the capital cities.
 
 <img align="center" width="600" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Web/Country_Captial_Weather.jpg"/>
 
-+ ### Spotlight:
-    - ###### Input TextField adds key listener
-    - ###### Buttons hook up with event listener
-    - ###### Project uses JavaScript promise fetach
-    - ###### Good Web page layout management and css effects 
-    - ###### Use two different APIs to get countries' information, flag, and their capticals' weather report
 ---
 
 
