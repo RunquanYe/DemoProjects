@@ -23,6 +23,7 @@ This repository is for some of my representative projects
 + [File Helper](#File-Helper)
 
 ---
+<div style="background-color: #FEE8E2; padding: 10px;">
 
 ## [Product Quotation][Java]
 I programmed a product quotation application that simulates common functionalities, which companies normally need for the product quotation software. 
@@ -58,6 +59,8 @@ I made the game with some addition features that would improve the game and make
     - ###### hook up the JLabels with hyperlinks on "About Programmer", you can see my linkedin
     - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project" 
     - ###### Check the network connection and receive the newest programmer introduction online in a thread
+    
+</div>
 ---
 
 
