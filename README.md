@@ -26,7 +26,8 @@ This repository is for some of my representative projects
 
 ## [Product Quotation][Java]
 
-<div style="background-color: #FEE8E2; padding: 10px;">
+<html>
+    <div style="background-color: #FEE8E2; padding: 10px;">
     
 I programmed a product quotation application that simulates common functionalities, which companies normally need for the product quotation software. 
 
@@ -43,7 +44,8 @@ I programmed a product quotation application that simulates common functionaliti
     - ###### Check the network connection and receive the newest programmer introduction from GitHub in a thread. 
     - ###### Hold up the JLabels with hyperlinks on the "About Programmer" Panel you can view my Github and LinkedIn.
     
-</div>
+    </div>
+</html>
 
 ---
 
