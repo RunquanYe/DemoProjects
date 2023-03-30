@@ -23,9 +23,11 @@ This repository is for some of my representative projects
 + [File Helper](#File-Helper)
 
 ---
-<div style="background-color: #FEE8E2; padding: 10px;">
 
 ## [Product Quotation][Java]
+
+<div style="background-color: #FEE8E2; padding: 10px;">
+    
 I programmed a product quotation application that simulates common functionalities, which companies normally need for the product quotation software. 
 
 <img align="center" width="500" height="200" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation_01.PNG"/>
