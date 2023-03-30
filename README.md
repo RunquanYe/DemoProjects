@@ -42,7 +42,9 @@ I programmed a product quotation application that simulates common functionaliti
     - ###### Hold up the JLabels with hyperlinks on the "About Programmer" Panel you can view my Github and LinkedIn.
     
 </div>
+
 ---
+
 ## [Super 2048][Java]
 I made the game with some addition features that would improve the game and make it more challenging.
 
