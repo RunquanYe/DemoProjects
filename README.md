@@ -40,6 +40,8 @@ I programmed a product quotation application that simulates common functionaliti
 
     - ###### Check the network connection and receive the newest programmer introduction from GitHub in a thread. 
     - ###### Hold up the JLabels with hyperlinks on the "About Programmer" Panel you can view my Github and LinkedIn.
+    
+</div>
 ---
 ## [Super 2048][Java]
 I made the game with some addition features that would improve the game and make it more challenging.
@@ -60,7 +62,6 @@ I made the game with some addition features that would improve the game and make
     - ###### Random Icons displaying on "Game Instruction", "About Programmer", and "About Project" 
     - ###### Check the network connection and receive the newest programmer introduction online in a thread
     
-</div>
 ---
 
 
