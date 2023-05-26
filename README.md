@@ -46,7 +46,7 @@ It is a product quotation application that simulates common functionalities, whi
 ## [Super 2048][Java]
 I made the game with some addition features that would improve the game and make it more challenging.
 
-<img align="center" width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/Super2048_01.PNG"/>
+<p align="center"><img width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/Super2048_01.PNG"/></p>
 
 + ### How to run:
     - ###### As long as your computer installed Java jre, the project already is an executable jar file executable on Mac, Windows, and Linux. But the Background Music effect only work on Window computer.
