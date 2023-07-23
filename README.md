@@ -2,8 +2,8 @@
 This repository is for some of my representative projects 
 
 ### 1. Java
-+ [Product Quotation](#Product-Quotation)
-+ [Super 2048](#Super-2048)
++ [Product Quotation](#product-quotation)
++ [Super 2048](#super-2048)
 
 ### 2. C
 + [Grocery Store Management System](#grocery-store-management-system)
@@ -12,15 +12,15 @@ This repository is for some of my representative projects
 
 ### 4. Web Projects
 + #### 1. HTML Project
-    - [Country Captial Weather API](#Country-Captial-Weather-API)
+    - [Country Captial Weather API](#country-captial-weather-api)
 + #### 2. VueJS Project
-    - [Budget List](#Budget-List)
+    - [Budget List](#budget-list)
 
 ### 5. PostgreSQL/SQL
-+ [PostgreSQL](#PostgreSQL)
++ [PostgreSQL](#postgreSQL)
 
 ### 6. Bash
-+ [File Helper](#File_Helper)
++ [File Helper](#file_helper)
 
 ---
 
