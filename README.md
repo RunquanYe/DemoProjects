@@ -20,7 +20,7 @@ This repository is for some of my representative projects
 + [PostgreSQL](#postgreSQL)
 
 ### 6. Bash
-+ [File Helper](#file_helper)
++ [File Helper](#file-helper)
 
 ---
 
