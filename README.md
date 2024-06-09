@@ -30,16 +30,16 @@ This repository is for some of my representative projects
 ## [Java Project][Java]
 ### [Product Quotation][Java]
     
-    It is a product quotation application that simulates common functionalities, which companies normally need for the product quotation software.  
-    Click upper the title link for more project details.
+It is a product quotation application that simulates common functionalities, which companies normally need for the product quotation software.  
+Click upper the title link for more project details.
 
 <p align="center"><img width="500" height="200" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation_01.PNG"/></p>
 
 
 
 ### [Super 2048][Java]
-    I made the game with some addition features that would improve the game and make it more challenging.  
-    Click upper the title link for more project details.
+I made the game with some addition features that would improve the game and make it more challenging.  
+Click upper the title link for more project details.
 
 <p align="center"><img width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/Super2048_01.PNG"/></p>
 
@@ -52,8 +52,8 @@ This repository is for some of my representative projects
 
 ## [C Project][C]
 ### [Grocery Store Management System][C]
-    Project 2 is a product management system for the grocery store. It can store, search, and update product data information and check out products.  
-    Click upper the title link for more project details.
+Project 2 is a product management system for the grocery store. It can store, search, and update product data information and check out products.  
+Click upper the title link for more project details.
 
 <p align="center"><img width="500" height="500" src="https://github.com/RunquanYe/C/blob/master/img/c_p2_01.PNG"/></p>
 
@@ -66,8 +66,8 @@ This repository is for some of my representative projects
 
 ## [HTML Project][HTML]
 ### [Country Captial Weather API][HTML]
-    This is a web project using HTML, CSS, and JavaScript. The project uses multiple APIs to get all the countries from the selected continent and display the countries' names, flags, capital cities, and the recent weather report of the capital cities.  
-    Click upper the title link for more project details.
+This is a web project using HTML, CSS, and JavaScript. The project uses multiple APIs to get all the countries from the selected continent and display the countries' names, flags, capital cities, and the recent weather report of the capital cities.  
+Click upper the title link for more project details.
 
 <p align="center"><img width="600" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Web/Country_Captial_Weather.jpg"/><
 /p>
@@ -75,7 +75,7 @@ This repository is for some of my representative projects
 
 
 ### [Budget List][HTML]
-    This is a VueJS web application project.  Click upper the title link for more project details.
+This is a VueJS web application project.  Click upper the title link for more project details.
 
 <p align="center"><img width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_3.jpg"/></p>
 <p align="center"><img width="700" height="300" src="https://github.com/RunquanYe/HTML/blob/main/img/Vue/Budget_List_9.jpg"/></p>
@@ -96,7 +96,7 @@ This repository is for some of my representative projects
 
 ## [SQL Project][SQL]
 ### [PostgreSQL][SQL]
-    Here are some PostgreSQL, SQL, and Python Script.  Click upper the title link for more project details.
+Here are some PostgreSQL, SQL, and Python Script.  Click upper the title link for more project details.
 
 + #### Spotlight:
     - ###### PostgreSQL procedure Script
@@ -108,8 +108,8 @@ This repository is for some of my representative projects
 
 ## [Terminal Bash Project][Bash]
 ### [File Helper][Bash]
-    I programmed a file helper terminal bash script to generate a test file(s) and rename a series of the file(s) for my development process, therefore I could quickly generate dummy test data files, or rename files to let my projects be more organized. I also add my profile hyperlinks in the bash script, so that you can click the links from the terminal while executing the script to visit my pages if you are interested in me.
-    Click upper the title link for more project details.
+I programmed a file helper terminal bash script to generate a test file(s) and rename a series of the file(s) for my development process, therefore I could quickly generate dummy test data files, or rename files to let my projects be more organized. I also add my profile hyperlinks in the bash script, so that you can click the links from the terminal while executing the script to visit my pages if you are interested in me.
+Click upper the title link for more project details.
 
 <p align="center"><img width="500" height="200" src="https://github.com/RunquanYe/Bash/blob/main/img/fileHelper_2.png"/></p>
 
@@ -117,8 +117,8 @@ This repository is for some of my representative projects
 
 ## [Windows Bat Project][Bat]
 ### [Shutdown Helper][Bat]
-    I programmed a customized schdule shutdown helper Windows bat script to allow user to customized schduled program in mutiple ways, like countdown mode, schdule time mode, monitor and wait for process finished mode.  The program bult-in user instruction and my profile hyperlinks.  
-    Click upper the title link for more project details.
+I programmed a customized schdule shutdown helper Windows bat script to allow user to customized schduled program in mutiple ways, like countdown mode, schdule time mode, monitor and wait for process finished mode.  The program bult-in user instruction and my profile hyperlinks.  
+Click upper the title link for more project details.
 
 <p align="center"><img width="500" height="200" src="https://github.com/RunquanYe/Windows_Bat/blob/main/img/Shutdown_Helper_6.png"/></p>
 
