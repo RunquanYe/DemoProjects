@@ -138,7 +138,7 @@ I programmed a file helper terminal bash script to generate a test file(s) and r
 I programmed a customized schdule shutdown helper Windows bat script to allow user to customized schduled program in mutiple ways, like countdown mode, schdule time mode, monitor and wait for process finished mode.  The program bult-in user instruction and my profile hyperlinks.
 
 <p align="center"><img width="500" height="200" src="https://github.com/RunquanYe/Windows_Bat/blob/main/img/Shutdown_Helper_6.png"/></p>
----
+
 
 
 
