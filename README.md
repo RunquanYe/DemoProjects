@@ -25,8 +25,8 @@ This repository is for some of my representative projects
 ### 7. Windows Bat Script
 + [Shutdown Program](#shutdown-program)
 
-
 ---
+
 ## [Java Project][Java]
 ### [Product Quotation][Java]
     
@@ -77,6 +77,7 @@ Project 2 is a product management system for the grocery store. It can store, se
     - The main.o is the compiled code for running the project
     - The functions.o is the compiled code for the product management system functionalities.
     - My project also included makefile, so you just need to run "make" in the terminal, and run "./store" to start my project.
+
 ---
 
 ## [HTML Project][HTML]
@@ -113,6 +114,7 @@ This is a VueJS web application project
     - ###### Button hook up with event listener and hint effect
     - ###### Project uses Firebase for login-in and account creation authentication
     - ###### Project hook up with Firebase as a real-time response cloud database
+
 ---
 
 ## [SQL Project][SQL]
@@ -124,6 +126,7 @@ Here are some PostgreSQL, SQL, and Python Script
     - ###### Use Python Script connects with PostgreSQL server to check with database data
     - ###### Use Python Script connects with PostgreSQL server to output data as CVS file and EXE file as the work needed
     - ###### Use Python Script connects with PostgreSQL server to Modify tables to improve work efficiency for large database
+
 ---
 
 ## [Terminal Bash Project][Bash]
@@ -131,6 +134,7 @@ Here are some PostgreSQL, SQL, and Python Script
 I programmed a file helper terminal bash script to generate a test file(s) and rename a series of the file(s) for my development process, therefore I could quickly generate dummy test data files, or rename files to let my projects be more organized. I also add my profile hyperlinks in the bash script, so that you can click the links from the terminal while executing the script to visit my pages if you are interested in me.
 
 <p align="center"><img width="500" height="200" src="https://github.com/RunquanYe/Bash/blob/main/img/fileHelper_2.png"/></p>
+
 ---
 
 ## [Windows Bat Project][Bat]
