@@ -73,8 +73,7 @@ This project using python script to generate a Jupyter Notebook that display som
 
 Click upper the title link for more project details.
 
-<p align="center"><img width="600" height="300" src="https://github.com/RunquanYe/Python/blob/main/img/ColorPanel01.png"/><
-/p>
+<p align="center"><img width="600" height="300" src="https://github.com/RunquanYe/Python/blob/main/img/ColorPanel01.png"/></p>
     
 ---
     
