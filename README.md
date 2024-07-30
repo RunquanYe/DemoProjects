@@ -9,6 +9,8 @@ This repository is for some of my representative projects
 + [Grocery Store Management System](#grocery-store-management-system)
 
 ### 3. Python
++ #### 1. Color Panel Jupyter Notebook
+    - [Color Panel](#color-panel)
 
 ### 4. Web Projects
 + #### 1. HTML Project
@@ -64,6 +66,17 @@ Click upper the title link for more project details.
 
 ---
 
+
+## [Python Project][Pyhton]
+### [Color Panel][Python]
+This project using python script to generate a Jupyter Notebook that display some of my favorite color set collection table markdown, that could let user previewed the selected color's effects and what the output is going to look like.  Hope this small project you may like or be useful to you in someways.
+Click upper the title link for more project details.
+
+<p align="center"><img width="600" height="300" src="https://github.com/RunquanYe/Color_Panel/blob/main/img/Web/ColorPanel02.jpg"/><
+/p>
+    
+---
+    
 ## [HTML Project][HTML]
 ### [Country Captial Weather API][HTML]
 This is a web project using HTML, CSS, and JavaScript. The project uses multiple APIs to get all the countries from the selected continent and display the countries' names, flags, capital cities, and the recent weather report of the capital cities.  
