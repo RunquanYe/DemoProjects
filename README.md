@@ -4,7 +4,7 @@ This repository is for some of my representative projects.
 ### 1. Java
 + [Product Quotation](#product-quotation)
 + [Super 2048](#super-2048)
-+ [Patient_Management System API](#pation-management-system-api)
++ [Patient Management System API](#pation-management-system-api)
 
 ### 2. C
 + [Grocery Store Management System](#grocery-store-management-system)
@@ -45,9 +45,9 @@ I made the game with some additional features that would improve the game and ma
 
 
 
-### [Patient_Management System API][PMS]
+### [Patient Management System API][PMS]
     
-It is a simple patient management system api just for demo purposes. It contains some basic CRUD functional abilities for a hospital to manage patients.  
+It is a simple patient management system microservice api just for demo purposes. It contains some basic CRUD functional abilities for a hospital to manage patients.  
 <u>Click on the title link for more project details.</u>
 
     
