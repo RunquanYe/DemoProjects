@@ -111,7 +111,7 @@ I programmed a customized schedule shutdown program, Windows bat script, to allo
 
 
 [Java]: https://github.com/RunquanYe/Java
-[PMS]: https://github.com/RunquanYe/PatientManagementSystem
+[PMS]: https://github.com/RunquanYe/PMS
 [C]: https://github.com/RunquanYe/C
 [Python]: https://github.com/RunquanYe/Python
 [Bat]: https://github.com/RunquanYe/Windows_Bat
