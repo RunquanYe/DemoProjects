@@ -4,7 +4,7 @@ This repository is for some of my representative projects.
 ### 1. Java
 + [Product Quotation](#product-quotation)
 + [Super 2048](#super-2048)
-+ [Patient Management System API](#pation-management-system-api)
++ [Patient Management System API](#patient-management-system-api)
 
 ### 2. C
 + [Grocery Store Management System](#grocery-store-management-system)
