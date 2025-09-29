@@ -11,7 +11,7 @@ This repository is for some of my representative projects.
 + [Grocery Store Management System](#grocery-store-management-system)
 
 ## 3. Python
-+ [Color Panel Jupyter Notebook](#color-panel)
++ [Color Panel Jupyter Notebook](#color-panel-jupyter-notebook)
 
 ## 4. PostgreSQL/SQL
 + [PostgreSQL](#postgreSQL)
@@ -66,7 +66,7 @@ This repository is for some of my representative projects.
 
 
 ## [Python Project][Python]
-+ ### [Color Panel][Python]
++ ### [Color Panel Jupyter Notebook][Python]
     - This project uses a Python script to generate a Jupyter Notebook that displays some of my favorite color set collection tables in markdown, which lets users preview the selected color's effects and what the output is going to look like.  Hope this small project you may like or be useful to you in some ways.
     - <b>Note:</b> Click on the title blue link for more project details.
 
