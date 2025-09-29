@@ -26,7 +26,8 @@ This repository is for some of my representative projects.
 
 ## [Java Projects][Java]
 + ### [Product Quotation][Java]
-    - It is a product quotation application that simulates common functionalities, which companies normally need for the product quotation software.  
+    - It is a product quotation application that simulates common functionalities, which companies normally need for the product quotation software.
+    - How to run: As long as your computer has installed Java JRE, the project is already an executable jar file executable on Mac, Windows, and Linux. 
     - <b>Note:</b> Click on the title blue link for more project details.
 
     <div align="center"><img width="500" height="200" src="https://github.com/RunquanYe/Java/blob/master/img/Product_Quotation_01.PNG"/></div>
@@ -34,18 +35,19 @@ This repository is for some of my representative projects.
 
 
 + ### [Super 2048][Java]
-    - I made the game with some additional features that would improve the game and make it more challenging.  
+    - I made the game with some additional features that would improve the game and make it more challenging.
+    - How to run: As long as your computer has installed Java JRE, the project is already an executable jar file executable on Mac, Windows, and Linux. 
     - <b>Note:</b> Click on the title blue link for more project details.
 
     <div align="center"><img width="370" height="500" src="https://github.com/RunquanYe/Java/blob/master/img/Super2048_01.PNG"/></div>
-
-    - How to run: As long as your computer has installed Java JRE, the project is already an executable jar file executable on Mac, Windows, and Linux. 
 
 
 
 + ### [Patient Management System API][PMS]
     - It is a simple patient management system microservice api just for demo purposes. It contains some basic CRUD functional abilities for a hospital to manage patients.  
     - <b>Note:</b> Click on the title blue link for more project details.
+
+
 
 + ### [More Java Application Demo Projects][JavaWarehouse]
 ---
